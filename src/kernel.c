@@ -112,5 +112,5 @@ void kernel_main(void){
 
     terminal_write_string("Hello, user !\n");
 
-    //TODO  : ADD newline support
+  
 } 
